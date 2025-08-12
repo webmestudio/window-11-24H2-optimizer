@@ -1,15 +1,16 @@
 Mampuh Mengoptimalkan dan Mengurangi Pemakaian RAM dan Mempercepat Multitasking
 
-Cara Pakai
-Buka Notepad → paste script di atas
-Simpan sebagai win11_24h2_optimizer.ps1
-Klik kanan PowerShell → Run as Administrator
+# Cara Pakai
 
-Jalankan:
+ 1. Buka Notepad → paste script di atas Simpan sebagai
+ 2. win11_24h2_optimizer.ps1 
+ 3. Klik kanan PowerShell → Run as Administrator
 
-Set-ExecutionPolicy Bypass -Scope Process -Force
-.\win11_24h2_optimizer.ps1
+# Jalankan:
 
-Pilih:
-1 → Optimize (Hemat RAM)
-2 → Restore (Balikin ke Default)
+	Set-ExecutionPolicy Bypass -Scope Process -Force .\win11_24h2_optimizer.ps1
+
+# Pilih:
+
+ 1. Optimize (Hemat RAM) 
+ 2. Restore (Balikin ke Default)
